@@ -1,3 +1,2 @@
 # hello-world
-Test repository for practice
-My Line for branch 2 
+My first line for Master Branch
